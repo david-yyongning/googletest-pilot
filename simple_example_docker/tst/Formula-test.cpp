@@ -1,4 +1,4 @@
-#include "gtest/gtest.h"
+#include <gtest/gtest.h>
 #include "Formula.h"
 
 TEST(blaTest, test1)
