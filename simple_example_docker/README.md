@@ -1,5 +1,5 @@
-# googletest-pilot
-googletest pilot project
+# simple_example_docker
+simple example with docker sub-project
 
 
 ## C++ project setup with CMake & unit tests (google test)
@@ -16,6 +16,7 @@ On Linux
 apt-get install cmake
 ```
 #### Googletest
+https://github.com/google/googletest
 ```
 git clone https://github.com/google/googletest/
 ```
