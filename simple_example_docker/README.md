@@ -1,5 +1,5 @@
-# googletest-pilot
-googletest pilot project
+# simple_example_docker
+simple example with docker sub-project
 
 
 ## C++ project setup with CMake & unit tests (google test)
